@@ -22,6 +22,13 @@ This project adds an interactive A350-inspired startup interface to GeoFS, allow
 * **Tampermonkey**
 * A modern web browser
 
+## Important Information
+
+* **Do not use the startup panel switches after the engines have been started.** Using certain switches at this point can cause the engines to stop.
+* If you want to reset the aircraft and start over, select **Cold & Dark** in the settings.
+
+
+
 ## Installation
 
 ### 1. Install Tampermonkey
