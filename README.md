@@ -1,4 +1,3 @@
-# GeoFS-4.0-a350-startup
 # GeoFS A350 Startup
 
 A custom Airbus A350 startup panel for **GeoFS 4.0**.
